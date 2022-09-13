@@ -28,7 +28,7 @@ Get package by:
 ```yaml
 sym_desktop_nav:
     git:
-      url: https://github.com/mustofa-al/symbolic_navigation.git
+      url: https://github.com/symbolic-id/symbolic_navigation.git
       ref: [latest_commit]
 ```
 
